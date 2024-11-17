@@ -8,6 +8,7 @@
   <link rel="icon" type="image/x-icon" href="./public/assets/logos/tls-star-white.svg">
   <link rel="stylesheet" href="./public/css/index.css">
   <script src="./public/js/index.js" defer></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 </head>
 <body>
 
