@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="./public/css/index.css">
   <script src="./public/js/index.js" defer></script>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body>
 
