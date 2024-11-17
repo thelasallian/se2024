@@ -6,6 +6,6 @@
   <title>The LaSallian - At the seams</title>
 </head>
 <body>
- 
+  
 </body>
 </html>
