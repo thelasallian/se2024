@@ -7,7 +7,7 @@ As part of its special coverage for the 2024 Special Elections (SE) at De La Sal
 Ramon Enrico Martinez
 
 ### Developers
-Patrick James Marcellana
+Patrick James Marcellana\
 Johan Marlo Cabili
 
 ### Dependencies
