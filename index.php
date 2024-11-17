@@ -7,7 +7,7 @@
   
   <link rel="icon" type="image/x-icon" href="./public/assets/logos/tls-star-white.svg">
   <link rel="stylesheet" href="./public/css/index.css">
-  
+  <script src="./public/js/index.js" defer></script>
 </head>
 <body>
 
