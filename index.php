@@ -13,6 +13,7 @@
 </head>
 <body class="bg-[url('./public/assets/img/background.png')]">
   <div id="content" class="max-w-[1440px] w-full flex items-center flex-col mt-[5vh]"> 
+    <img src="./public/assets/logos/tls-star-black.svg" title="The LaSallian">
   </div>
 
   
