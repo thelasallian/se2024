@@ -11,8 +11,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-[url('./public/assets/img/background.png')]">
-  <div id="content" class="max-w-[1440px] w-full flex items-center flex-col "> 
+<body class="bg-[url('./public/assets/img/background.png')] flex items-center flex-col">
+  <div id="content" class="max-w-[1440px] w-full flex items-center flex-col"> 
     <img src="./public/assets/logos/tls-star-black.svg" class="mt-[5vh]" alt="The LaSallian" title="The LaSallian">
   </div>
 
